@@ -132,6 +132,18 @@ This project is suitable for:
 
 ---
 
+## 📷 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Output
+
+![Output](screenshots/chatbot_output.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Jammikuntla Spurthi Sree**  
