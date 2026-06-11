@@ -132,20 +132,6 @@ This project is suitable for:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home_page.png
-├── recommendation_result.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Jammikuntla Spurthi Sree**  
